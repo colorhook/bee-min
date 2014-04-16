@@ -2,7 +2,7 @@
     "name": "bee-min",
     "version": "0.1.0",
 	"description": "bee min and datauri plugin",
-    "keywords": ["bee plugin","minify datauri"],
+    "keywords": ["bee plugin","min", "datauri"],
     "main": "lib/index.js",
     "bin": {
     },
@@ -17,7 +17,7 @@
     }],
 	"bugs": {
         "email": "colorhook@gmail.com",
-        "url": "http://github.com/colorhook/bee-minify/issues"
+        "url": "http://github.com/colorhook/bee-min/issues"
     },
 
     "dependencies": {
@@ -30,15 +30,15 @@
     "scripts":{
         "test": "mocha --require should test --timeout 10000 --globals hasCert --ignore-leaks"
     },
-    "homepage": "https://github.com/colorhook/bee-minify",
+    "homepage": "https://github.com/colorhook/bee-min",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/colorhook/bee-minify.git"
+        "url" : "git://github.com/colorhook/bee-min.git"
     },
 	"licenses": [
         {
             "type": "MIT",
-            "url": "http://github.com/colorhook/bee-minify/blob/master/LICENSE"
+            "url": "http://github.com/colorhook/bee-min/blob/master/LICENSE"
         }
     ]
 }
