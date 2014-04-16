@@ -1,6 +1,6 @@
 {
     "name": "bee-min",
-    "version": "0.1.0",
+    "version": "0.2.2",
 	"description": "bee min and datauri plugin",
     "keywords": ["bee plugin","min", "datauri"],
     "main": "lib/index.js",
@@ -21,7 +21,7 @@
     },
 
     "dependencies": {
-    	"node-minifier": "~0.1.6"
+    	"node-minifier": "~0.1.7"
     },
     "devDependencies":{
         "mocha": "~1.7.4",
