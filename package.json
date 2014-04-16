@@ -21,7 +21,7 @@
     },
 
     "dependencies": {
-    	"node-minifier": "~0.0.2"
+    	"node-minifier": "~0.1.6"
     },
     "devDependencies":{
         "mocha": "~1.7.4",
